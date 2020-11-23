@@ -1,5 +1,4 @@
-Potatoes
-Maida(Corn Flour)
+PotatoesMaida(Corn Flour)
 Refined Oil
 Cumin Seeds
 Green Chilli
